@@ -1,0 +1,2 @@
+-- Step 1: Start with a question.
+-- Q: How can I generate a classic "Hello World" greeting message along with the current system date and time?

@@ -1,0 +1,2 @@
+-- Step 2: Begin creating an answer.
+-- A: I will select a fixed text string for the greeting and use the built-in GETDATE() function to stamp the current time.

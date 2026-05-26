@@ -1,0 +1,2 @@
+-- Step 1: Start with a question.
+-- Q: How many active players are currently registered under each distinct field position?

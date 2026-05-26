@@ -1,0 +1,2 @@
+-- Step 2: Begin creating an answer.
+-- A: I will extract data from dbo.tblPlayerDim to count the Player_IDs, grouping the results by Position_ID.

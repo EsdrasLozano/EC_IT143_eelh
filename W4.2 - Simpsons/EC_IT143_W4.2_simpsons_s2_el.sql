@@ -1,0 +1,2 @@
+-- Step 2: Begin creating an answer.
+-- A: I will group the rows by the 'Category' column and apply the SUM() function to the 'Amount' column, ignoring null values.

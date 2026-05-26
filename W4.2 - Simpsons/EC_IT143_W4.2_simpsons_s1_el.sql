@@ -1,0 +1,2 @@
+-- Step 1: Start with a question.
+-- Q: What is the total accumulated amount of financial expenses for each transaction category within Planet Express?
